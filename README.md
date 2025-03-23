@@ -22,7 +22,6 @@ An AI-powered chatbot designed to answer general health-related queries based on
 5. [Project Structure](#project-structure)
 6. [Contributing](#contributing)
 7. [License](#license)
-8. [Contact](#contact)
 
 ---
 
